@@ -12,4 +12,4 @@ ENDIF(UNIX)
 add_subdirectory(JxrDecode)
 add_subdirectory(libCZI)
 
-add_subdirectory(CZICmd)
+# add_subdirectory(CZICmd)
